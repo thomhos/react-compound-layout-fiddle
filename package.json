@@ -1,0 +1,22 @@
+{
+  "name": "layout-using-compounds",
+  "description": null,
+  "version": "0.0.168",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "prop-types": "15.6.0",
+    "hoist-non-react-statics": "2.3.1",
+    "glamorous": "4.11.0",
+    "glamor": "2.20.40"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
